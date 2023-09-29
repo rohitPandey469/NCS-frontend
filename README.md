@@ -1,5 +1,5 @@
-#NCS #hackncs
-#############################################################Steps to run on localhost ##########################################################
-Step-1: git clone https-url
-Step-2: npm install
-Step-3: npm start
+#NCS #hackncs <br/>
+Steps to run on localhost<br/>
+Step-1: git clone https-url <br/>
+Step-2: npm install <br/>
+Step-3: npm start<br/>
