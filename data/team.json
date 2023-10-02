@@ -1,0 +1,144 @@
+{
+    "team" : {
+        "4_year" : [
+            {
+                "id" : 1,
+                "name" : "Anadee Sir",
+                "role" : "President"
+            },
+            {
+                "id" : 2,
+                "name" : "Anant Sir",
+                "role" : "CTC"
+            },
+            {
+                "id" : 3,
+                "name" : "Jayati Mam",
+                "role" : "General Secretary"
+            },
+            {
+                "id" : 4,
+                "name" : "Dev Sir",
+                "role" : "HOC Programming"
+            },
+            {
+                "id" : 5,
+                "name" : "Hiteshwarm Sir",
+                "role" : "Financial Head"
+            },
+            {
+                "id" : 6,
+                "name" : "Om Sir",
+                "role" : "HOC Design"
+            },
+            {
+                "id" : 7,
+                "name" : "Parth Sir",
+                "role" : "Creative Head"
+            },
+            {
+                "id" : 8,
+                "name" : "Pavitra Sir",
+                "role" : "Technical Head"
+            },
+            {
+                "id" : 9,
+                "name" : "Janvi Mam",
+                "role" : "Operations Head"
+            },
+            {
+                "id" : 10,
+                "name" : "Aditi Mam",
+                "role" : "HOC Technical"
+            }
+        ],
+
+        "3_year" : [
+            {
+                "id" : 1,
+                "name" : "Abhishek Sir",
+                "role" : "Developer"
+            },
+            {
+                "id" : 2,
+                "name" : "Adarsh bajpai Sir",
+                "role" : "Programmer"
+            },
+            {
+                "id" : 3,
+                "name" : "Aayush Aryan Sir",
+                "role" : "Developer"
+            },
+            {
+                "id" : 4,
+                "name" : "Aditi Mam",
+                "role" : "Designer"
+            },
+            {
+                "id" : 5,
+                "name" : "Alok Sir",
+                "role" : "Android Developer"
+            },
+            {
+                "id" : 6,
+                "name" : "Anubhav Sir",
+                "role" : "Developer"
+            },
+            {
+                "id" : 7,
+                "name" : "Ayush Sir",
+                "role" : "Programmer"
+            },
+            {
+                "id" : 8,
+                "name" : "Dhruv Sir",
+                "role" : "Developer"
+            },
+            {
+                "id" : 9,
+                "name" : "Harsh Sir",
+                "role" : "DevOps and Cloud Architect"
+            },
+            {
+                "id" : 10,
+                "name" : "Lalit Sir" ,
+                "role" : "Developer"
+            },
+            {
+                "id" : 11,
+                "name" : "Neev Sir" ,
+                "role" : "Android Developer"
+            },
+            {
+                "id" : 12,
+                "name" : "Raghavendra sir",
+                "role" : "ML Developer"
+            },
+            {
+                "id" : 13,
+                "name" : "Saumya Mam",
+                "role" : "Developer"
+            },
+            {
+                "id" : 14,
+                "name" : "Shivang Sir" ,
+                "role" : "Android Developer"
+            },
+            {
+                "id" : 15,
+                "name" : "Shreyansh Sir",
+                "role" : "Programmer"
+            },
+            {
+                "id" : 16,
+                "name" : "Urvashi Mam",
+                "role" : "Developer"
+            },
+            {
+                "id" : 17,
+                "name" : "Utsav Sir",
+                "role" : "Programmer"
+            }
+        ]
+    }
+}

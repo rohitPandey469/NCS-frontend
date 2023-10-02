@@ -1,15 +1,33 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import App from "./App.jsx";
+import Home from "./Pages/Home/Home";
+import Team from "./Pages/Team/Team";
+import Projects from "./Pages/Projects/Projects";
+import Events from "./Pages/Events/Events";
 import "./index.css";
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element : <Home/>
+  },
+  {
+    path :"team", 
+    element :<Team />
+  },
+  {
+    path:"projects", 
+    element :<Projects />
+  },
+  {
+    path:"events", 
+    element :<Events />
+  }
+])
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter>
-      <Routes>
-        <Route path="/*" element={<App />} />
-      </Routes>
-    </BrowserRouter>
+    <RouterProvider router={router} />
   </React.StrictMode>
 );

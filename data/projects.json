@@ -1,0 +1,34 @@
+{
+    "projects" : [
+        {
+            "name" : "JSS Infotech",
+            "desc" : [
+                "A digital hub of knowledge, bringing you updates on notices, assignments, and placement opportunities."
+            ]
+        },
+        {
+            "name" : "MCQ Module",
+            "desc" : [
+                "Picture this: an online theater for teachers and societies, where multiple-choice questions take the stage and the results pop up like magic tricks! Abracadabra, learning just got a whole lot snazzier!"
+            ]
+        },
+        {
+            "name" : "Event Manager",
+            "desc" : [
+                "A college event-tracking web app, keeping students informed about daily happenings on campus. Stay in the loop, never miss out!"
+            ]
+        },
+        {
+            "name" : "Know Your College",
+            "desc" : [
+                "'Know Your College', is a nifty web application that's your virtual compass for navigating the expansive world of JSS. It's your go-to guide for unraveling the intriguing corners of the college and its lively neighborhood."
+            ]
+        },
+        {
+            "name" : "Zealicon Website",
+            "desc" : [
+                "An annually themed digital hub for Zealicon, the Techno-Cultural Extravaganza at JSSATEN!"
+            ]
+        }
+    ]
+}

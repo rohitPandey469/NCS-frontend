@@ -1,0 +1,20 @@
+{
+    "clubs" : {
+        "programming" : {
+            "name" : "Programming",
+            "desc" : "We're the problem-solvers, the code artisans, and the open-source advocates.We turn bugs into features and have more lines of code than we have cups of coffee (almost)! Embracing our coding mischief, coding our way to the future - one line at a time."
+        },
+        "webdev" : {
+            "name" : "Web Development",
+            "desc" : "Our devs are legendary, and our code is poetry. We're a lively bunch of coding gurus, CSS enthusiasts, and JavaScript wizards. Here 'responsive' isn't just a technical term; it's how we work together !"
+        },
+        "technical" : {
+            "name" : "Technical",
+            "desc" : "The realm of tech titans, where we navigate the digital frontier. We're the tech trouble-shooters, the hardware heroes and the code commanders; driven by curiosity and thriving at the intersection of AI/ML and open source innovation."
+        },
+        "design" : {
+            "name" : "Design",
+            "desc" : "The artistic engineers behind stunning visuals. With designs more polished than a freshly waxed car, we turn imagination into pixel-perfect reality!  Our canvas is your imagination with our brushes dipped in innovation."
+        }
+    }
+}

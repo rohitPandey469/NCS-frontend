@@ -1,8 +1,13 @@
 import React from 'react'
 
-const Project = () => {
+const Project = ({name, desc}) => {
   return (
-    <div>Project</div>
+    <section>
+      <h2>{name}</h2>
+      <p>
+        {desc}
+      </p>
+    </section>
   )
 }
 

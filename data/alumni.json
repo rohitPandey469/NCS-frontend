@@ -1,0 +1,75 @@
+{
+    "alumni" : {
+        "desc" : "Since 2000, our society has been tirelessly working to elevate knowledge in the field of computer science, enriching our college community with exceptional talents. Our relentless pursuit of excellence in all facets of technology is a testament to our commitment. Here, we proudly introduce some of our esteemed alumni from years past.",
+        "year" : {
+            "2023" : [
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                }
+            ],
+            "2022" : [
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                }
+            ],
+            "2021" : [
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                }
+            ],
+            "2020" : [
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                },
+                {
+                    "name" : "name1",
+                    "linkedin_url" : "sdfsd",
+                    "orgs" : "sdf"
+                }
+            ]
+        }
+    }
+}

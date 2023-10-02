@@ -1,0 +1,30 @@
+{ 
+    "society" : {
+        "heading" : "Turning college into a collaborative learning experience",
+        "about" : [
+            "NCS has been a student group since 2000, patrons of innovation and technical activities on campus. We aim to provide immersive learning experiences and elevate the college scene with top-notch code, development, and design."
+        ],
+        "socials" : [
+            {
+                "name" : "Instagram",
+                "url" : ""
+            },
+            {
+                "name" : "Facebook",
+                "url" : ""
+            },
+            {
+                "name" : "Linkedin",
+                "url" : ""
+            },
+            {
+                "name" : "Behance",
+                "url" : ""
+            },
+            {
+                "name" : "Github",
+                "url" : ""
+            }
+        ]
+    }
+}
