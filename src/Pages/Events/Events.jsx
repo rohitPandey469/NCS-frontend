@@ -5,7 +5,7 @@ import Header from '../../Components/Header/Header'
 const Events = () => {
   return (
     <>
-      <Header></Header>
+      <Header/>
       Events
     </>
   )
